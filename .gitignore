@@ -99,6 +99,8 @@ dist
 .temp
 .cache
 
+.env
+
 # Sveltekit cache directory
 .svelte-kit/
 
